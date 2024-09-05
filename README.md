@@ -3,6 +3,7 @@
 
 ## Application display
 ![](https://github.com/NohaGhattas/Mental-Health-chatbot/blob/main/output%20src/Chatbot%20Run.gif)
+
 ```bash
 https://github.com/NohaGhattas/Mental-Health-chatbot/blob/main/output%20src/Chatbot%20Run.gif
 ```
