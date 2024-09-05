@@ -2,7 +2,7 @@
     This chatbot is for Mental health support Using TensorFlow and Flask API
 
 ## Application display
-[Watch Video](https://raw.githubusercontent.com/NohaGhattas/Mental-Health-chatbot/main/output%20src/Chatbot%20Run.mp4)
+![Watch Video](https://raw.githubusercontent.com/NohaGhattas/Mental-Health-chatbot/main/output%20src/Chatbot%20Run.mp4)
 
 
 ```bash
